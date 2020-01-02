@@ -7,6 +7,7 @@ Algoritm explained below
 
 Example of reverse Sequence
 Sr	  String	            Reverse
+
 1	    i am a developer	  repoleved a ma i
 1	    lazy	yzal
 
