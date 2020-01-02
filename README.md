@@ -1,4 +1,3 @@
-# EncodingAndDecoding
 <!DOCTYPE html>
 <html lang="en"><head>
     <link rel="stylesheet" href="./Encoding and Decoding_files/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
